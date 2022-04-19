@@ -1,0 +1,2 @@
+bind x
+clipboard XXX
